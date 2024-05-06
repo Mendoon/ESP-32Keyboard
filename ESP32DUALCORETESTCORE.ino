@@ -31,7 +31,7 @@ void setup() {
   delay(500);
   tft.setCursor(0, 0);
   tft.setTextColor(ST7735_WHITE);
-  tft.println("Standalone GPU:");
+  tft.println("Test");
   delay(2000);
   tft.fillScreen(ST77XX_BLUE);
   tft.setCursor(0,0);
